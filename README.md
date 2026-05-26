@@ -106,6 +106,4 @@ Run all scripts from INSIDE that folder (not from a parent directory).
 The Excel output is created in the same root folder.
 ```
 
----
-
-*Built as a supply chain analytics portfolio project. All data is synthetic.*
+-
