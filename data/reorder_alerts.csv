@@ -1,0 +1,10 @@
+sku_id,product_name,category,storage_zone,current_stock,reorder_level,shortage_units,estimated_reorder_cost_inr,alert_level
+SKU035,File Folder,Stationery,F,30,100,70,103854.7,🟠 REORDER NOW
+SKU008,Smart Bulb,Electronics,A,40,68,28,134640.0,🟠 REORDER NOW
+SKU010,Coffee Maker,Home & Kitchen,B,40,57,17,158769.22,🟠 REORDER NOW
+SKU002,HDMI Cable,Electronics,A,44,89,45,200559.14,🟠 REORDER NOW
+SKU006,Power Bank,Electronics,A,52,63,11,20515.02,🟠 REORDER NOW
+SKU023,Data Science 101,Books,D,57,63,6,53066.52,🟠 REORDER NOW
+SKU017,Running Shorts,Apparel,C,71,53,-18,22898.4,🟡 LOW STOCK
+SKU026,Finance Essentials,Books,D,82,67,-15,71316.96,🟡 LOW STOCK
+SKU007,Earbuds,Electronics,A,135,97,-38,119620.14,🟡 LOW STOCK

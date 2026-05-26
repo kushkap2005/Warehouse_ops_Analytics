@@ -1,0 +1,37 @@
+sku_id,product_name,category,storage_zone,price_inr,current_stock,reorder_level,units_sold,order_count,velocity_tag,stock_status
+SKU022,Python Basics,Books,D,4316.82,58,21,1549,273,Fast Mover,OK
+SKU019,Cap,Apparel,C,1173.67,260,37,1429,271,Fast Mover,OK
+SKU012,Cutting Board,Home & Kitchen,B,3382.86,87,29,1359,235,Fast Mover,OK
+SKU029,Hand Sanitizer,Health,E,4739.05,248,30,1336,240,Fast Mover,OK
+SKU009,Blender,Home & Kitchen,B,3129.75,295,66,1333,253,Fast Mover,OK
+SKU010,Coffee Maker,Home & Kitchen,B,3339.19,40,57,1266,229,Fast Mover,REORDER NOW
+SKU018,Sports Socks,Apparel,C,1386.43,219,94,1252,231,Fast Mover,OK
+SKU028,Protein Powder,Health,E,1877.61,122,59,1231,229,Fast Mover,OK
+SKU015,Dish Rack,Home & Kitchen,B,2064.71,108,28,1216,222,Fast Mover,OK
+SKU027,Vitamin C 500mg,Health,E,2697.73,165,20,1210,212,Fast Mover,OK
+SKU003,Wireless Mouse,Electronics,A,558.11,258,49,1184,203,Fast Mover,OK
+SKU034,Stapler,Stationery,F,1755.62,283,95,1154,206,Fast Mover,OK
+SKU036,Whiteboard Marker,Stationery,F,4311.21,263,29,1128,210,Fast Mover,OK
+SKU031,Thermometer,Health,E,908.12,216,87,1083,203,Fast Mover,OK
+SKU004,Keyboard,Electronics,A,3607.5,214,89,989,174,Fast Mover,OK
+SKU016,Polo Shirt,Apparel,C,3616.78,255,47,785,130,Fast Mover,OK
+SKU014,Tupperware Set,Home & Kitchen,B,3863.74,117,27,682,126,Fast Mover,OK
+SKU006,Power Bank,Electronics,A,860.85,52,63,662,117,Fast Mover,REORDER NOW
+SKU007,Earbuds,Electronics,A,4251.72,135,97,643,114,Fast Mover,Low Stock
+SKU030,Face Mask Pack,Health,E,2709.26,65,36,624,111,Fast Mover,OK
+SKU008,Smart Bulb,Electronics,A,2726.52,40,68,578,112,Fast Mover,REORDER NOW
+SKU025,Marketing Guide,Books,D,620.41,152,100,524,99,Fast Mover,OK
+SKU026,Finance Essentials,Books,D,1073.66,82,67,511,97,Fast Mover,Low Stock
+SKU013,Water Bottle,Home & Kitchen,B,2364.08,285,54,445,86,Fast Mover,OK
+SKU033,Ball Pen Set,Stationery,F,1928.76,231,86,432,83,Fast Mover,OK
+SKU005,Webcam,Electronics,A,4065.21,81,20,412,79,Fast Mover,OK
+SKU011,Non-stick Pan,Home & Kitchen,B,1961.62,186,78,345,70,Fast Mover,OK
+SKU001,USB Hub,Electronics,A,221.55,125,55,345,69,Fast Mover,OK
+SKU017,Running Shorts,Apparel,C,2347.37,71,53,321,59,Fast Mover,Low Stock
+SKU020,Hoodie,Apparel,C,4318.4,81,39,293,55,Fast Mover,OK
+SKU024,Supply Chain Mgmt,Books,D,114.9,256,53,282,54,Fast Mover,OK
+SKU035,File Folder,Stationery,F,446.87,30,100,170,30,Medium Mover,REORDER NOW
+SKU023,Data Science 101,Books,D,1406.44,57,63,158,29,Medium Mover,REORDER NOW
+SKU002,HDMI Cable,Electronics,A,3414.83,44,89,153,32,Medium Mover,REORDER NOW
+SKU021,Yoga Pants,Apparel,C,410.29,239,68,151,31,Medium Mover,OK
+SKU032,Notebook,Stationery,F,3799.8,159,45,148,26,Medium Mover,OK

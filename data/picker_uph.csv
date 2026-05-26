@@ -1,0 +1,9 @@
+picker_id,name,shift,accuracy_pct,total_orders,total_units,uph,avg_fulfillment_min
+P05,Rahul Verma,Afternoon,92.71,650,3647,5.8,58.1
+P07,Deepak Yadav,Morning,95.5,653,3596,5.65,58.5
+P08,Kavita Patel,Afternoon,97.05,595,3272,5.64,58.5
+P03,Amit Sharma,Night,93.82,639,3531,5.61,59.1
+P02,Sunita Devi,Afternoon,97.43,627,3421,5.56,58.8
+P01,Ravi Kumar,Morning,93.61,593,3284,5.55,59.9
+P04,Priya Singh,Morning,98.06,631,3389,5.4,59.7
+P06,Neha Gupta,Night,94.66,612,3243,5.39,59.0

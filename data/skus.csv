@@ -1,0 +1,37 @@
+sku_id,product_name,category,weight_kg,price_inr,storage_zone,reorder_level,current_stock,unit_cost_inr
+SKU001,USB Hub,Electronics,3.23,221.55,A,55,125,596.87
+SKU002,HDMI Cable,Electronics,3.71,3414.83,A,89,44,1496.71
+SKU003,Wireless Mouse,Electronics,0.26,558.11,A,49,258,1524.95
+SKU004,Keyboard,Electronics,2.85,3607.5,A,89,214,590.08
+SKU005,Webcam,Electronics,2.99,4065.21,A,20,81,1760.44
+SKU006,Power Bank,Electronics,1.77,860.85,A,63,52,277.23
+SKU007,Earbuds,Electronics,0.57,4251.72,A,97,135,2027.46
+SKU008,Smart Bulb,Electronics,3.68,2726.52,A,68,40,1402.5
+SKU009,Blender,Home & Kitchen,4.16,3129.75,B,66,295,521.11
+SKU010,Coffee Maker,Home & Kitchen,0.44,3339.19,B,57,40,2145.53
+SKU011,Non-stick Pan,Home & Kitchen,4.35,1961.62,B,78,186,448.5
+SKU012,Cutting Board,Home & Kitchen,1.84,3382.86,B,29,87,1358.64
+SKU013,Water Bottle,Home & Kitchen,1.3,2364.08,B,54,285,588.06
+SKU014,Tupperware Set,Home & Kitchen,1.69,3863.74,B,27,117,2063.42
+SKU015,Dish Rack,Home & Kitchen,4.04,2064.71,B,28,108,2287.18
+SKU016,Polo Shirt,Apparel,2.88,3616.78,C,47,255,1019.3
+SKU017,Running Shorts,Apparel,4.58,2347.37,C,53,71,654.24
+SKU018,Sports Socks,Apparel,2.85,1386.43,C,94,219,2249.67
+SKU019,Cap,Apparel,2.06,1173.67,C,37,260,1259.11
+SKU020,Hoodie,Apparel,3.8,4318.4,C,39,81,1990.59
+SKU021,Yoga Pants,Apparel,2.17,410.29,C,68,239,1346.33
+SKU022,Python Basics,Books,4.86,4316.82,D,21,58,1720.19
+SKU023,Data Science 101,Books,2.73,1406.44,D,63,57,769.08
+SKU024,Supply Chain Mgmt,Books,0.87,114.9,D,53,256,1916.81
+SKU025,Marketing Guide,Books,2.59,620.41,D,100,152,2112.09
+SKU026,Finance Essentials,Books,2.59,1073.66,D,67,82,1371.48
+SKU027,Vitamin C 500mg,Health,3.92,2697.73,E,20,165,1247.08
+SKU028,Protein Powder,Health,0.65,1877.61,E,59,122,191.92
+SKU029,Hand Sanitizer,Health,4.4,4739.05,E,30,248,2049.26
+SKU030,Face Mask Pack,Health,4.89,2709.26,E,36,65,1666.39
+SKU031,Thermometer,Health,4.74,908.12,E,87,216,2412.69
+SKU032,Notebook,Stationery,4.65,3799.8,F,45,159,1027.53
+SKU033,Ball Pen Set,Stationery,3.39,1928.76,F,86,231,346.46
+SKU034,Stapler,Stationery,1.2,1755.62,F,95,283,613.78
+SKU035,File Folder,Stationery,1.18,446.87,F,100,30,610.91
+SKU036,Whiteboard Marker,Stationery,4.54,4311.21,F,29,263,633.11

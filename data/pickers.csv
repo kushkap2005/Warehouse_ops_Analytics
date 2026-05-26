@@ -1,0 +1,9 @@
+picker_id,name,shift,shift_start,shift_end,experience_yr,accuracy_pct
+P01,Ravi Kumar,Morning,06:00,14:00,8,93.61
+P02,Sunita Devi,Afternoon,14:00,22:00,3,97.43
+P03,Amit Sharma,Night,22:00,06:00,8,93.82
+P04,Priya Singh,Morning,06:00,14:00,8,98.06
+P05,Rahul Verma,Afternoon,14:00,22:00,4,92.71
+P06,Neha Gupta,Night,22:00,06:00,7,94.66
+P07,Deepak Yadav,Morning,06:00,14:00,7,95.5
+P08,Kavita Patel,Afternoon,14:00,22:00,1,97.05
