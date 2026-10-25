@@ -147,7 +147,7 @@ def build_kpi(wb):
         ("TOTAL DELIVERY COST", f"₹{kpi['total_delivery_cost_inr']/1e5:.1f}L", "2C3E50", "FFFFFF"),
         ("RETURN RATE",         f"{kpi['return_rate_pct']:.1f}%",           C["red"],  "FFFFFF"),
         ("ACTIVE PICKERS",      "8",                                        C["purple"],"FFFFFF"),
-        ("SKUs TRACKED",        "41",                                       C["green"], "FFFFFF"),
+        ("SKUs TRACKED",        "36",                                       C["green"], "FFFFFF"),
         ("ACTIVE ZONES",        "6",                                        C["orange"],"FFFFFF"),
     ]
     ws.row_dimensions[r+3].height = 8
